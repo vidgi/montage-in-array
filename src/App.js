@@ -13,7 +13,7 @@ import {
   OrbitControls,
   PerspectiveCamera,
 } from "@react-three/drei";
-import soundHorn from "./sound-horn.jpeg";
+import vishu from "./vishu_small.jpeg";
 
 function App() {
   const videos = [
@@ -181,7 +181,7 @@ function YouTubeEmbed(props) {
   return (
     <Html transform position={props.position} rotation={props.rotation}>
       {/* <p>{props.link}</p> */}
-      <img unselectable="on" src={soundHorn} alt="thumbnail" width="650" height="400" />
+      <img unselectable="on" src={vishu} alt="thumbnail" width="650" height="400" />
       {/* <iframe width="560" height="315" src={"https://www.youtube.com/embed/" + props.link} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
       {/* 1280 / 5, 853 */}
     </Html>
