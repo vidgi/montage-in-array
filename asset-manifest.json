@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/montage-in-array/static/css/main.e51f5d99.css",
+    "main.js": "/montage-in-array/static/js/main.1a8487d5.js",
+    "static/js/787.48a33bc4.chunk.js": "/montage-in-array/static/js/787.48a33bc4.chunk.js",
+    "static/media/sound-horn.jpeg": "/montage-in-array/static/media/sound-horn.0ac2cb5571ef10c70aa5.jpeg",
+    "index.html": "/montage-in-array/index.html",
+    "main.e51f5d99.css.map": "/montage-in-array/static/css/main.e51f5d99.css.map",
+    "main.1a8487d5.js.map": "/montage-in-array/static/js/main.1a8487d5.js.map",
+    "787.48a33bc4.chunk.js.map": "/montage-in-array/static/js/787.48a33bc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e51f5d99.css",
+    "static/js/main.1a8487d5.js"
+  ]
+}
